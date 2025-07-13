@@ -1,0 +1,11 @@
+body {
+      margin: 0;
+      height: 100vh;
+      background: linear-gradient(to right, #8e2de2, #4a00e0); /* Purple gradient */
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      color: white;
+      font-size: 24px;
+      font-family: Arial, sans-serif;
+    }
